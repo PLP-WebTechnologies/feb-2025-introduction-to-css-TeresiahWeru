@@ -22,6 +22,15 @@ Margins, paddings, and borders.
 >  - Different font
 
 
+# Tasks
+ - Link an external CSS file.
+ - Apply at least 3 different selectors.
+ - Improve readability and aesthetics.
+
+Happy Coding! 💻✨
+
+
+
 
 /* styles.css */
 
@@ -86,9 +95,3 @@ img {
   background-color: #217dbb;
 }
 
-# Tasks
- - Link an external CSS file.
- - Apply at least 3 different selectors.
- - Improve readability and aesthetics.
-
-Happy Coding! 💻✨
